@@ -7,7 +7,7 @@ This project compares two powerful Python libraries — **FireDucks** and **Pand
 
 We generated a synthetic dataset with **9 Million Rows** 📄 and performed commonly used operations in data workflows to measure speed and efficiency ⚡.
 
----
+--- 
 
 ## ✨ What’s Inside?
 
