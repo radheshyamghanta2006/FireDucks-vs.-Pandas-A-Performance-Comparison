@@ -10,7 +10,7 @@ We generated a synthetic dataset with **9 Million Rows** 📄 and performed comm
 ---
 
 ## 📜 Documentation
-https://docs.google.com/document/d/143VssADYULFSHR9ksG4jl-UxnApo-o-rSbgzrpBaxhk/edit?usp=sharing
+https://www.devrelsquad.com/blog/fireducks-vs-pandas-97042bed
 
 This project is open-sourced under the [MIT License](LICENSE).
 
